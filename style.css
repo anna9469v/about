@@ -1,0 +1,52 @@
+h1{
+  color: rgb(120, 0, 233);
+}
+body {
+  color: rgb(123, 2, 236);
+  background-color: rgb(133, 197, 153);
+}
+
+a {
+  font-size: 16px;
+}
+
+p {
+  color: rgb(118, 8, 243);
+}
+
+.green {
+  color: rgb(76, 0, 255);
+}
+
+.blue{
+  color: blue;
+}
+
+#greenHeader {
+  color: rgb(132, 0, 255);
+}
+
+.harry_list_item {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(29, 0, 110);
+}
+.button{
+  color: rgb(8, 10, 114);
+  border: none;
+  border-radius: 20px;
+  padding: 15px;
+  background-color: burlywood;
+}
+
+
+.edison {
+  color: crimson;
+}
+.anna{
+  height:250px;
+  color: rgb(204, 0, 255);
+}
+.flower{
+  color: pink;
+}
