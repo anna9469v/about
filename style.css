@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+
 h1{
   color: rgb(120, 0, 233);
 }
 body {
   color: rgb(123, 2, 236);
-  background-color: rgb(133, 197, 153);
+  background-color: rgb(114, 172, 226);
 }
 
 a {
@@ -37,9 +39,19 @@ p {
   border-radius: 20px;
   padding: 15px;
   background-color: burlywood;
+
 }
-
-
+.buttonf{
+  color: rgb(8, 10, 114);
+  border: none;
+  border-radius: 20px;
+  padding: 15px;
+  background-color: burlywood;
+}
+.button:hover{
+  height: 75px;
+  width: 75px;
+}
 .edison {
   color: crimson;
 }
@@ -49,4 +61,57 @@ p {
 }
 .flower{
   color: pink;
+}
+.mrlololoshka{
+  color: aquamarine;
+}
+.muls{
+  color: blueviolet;
+}
+.m5{
+  color: red;
+}
+.sp{
+  color: aquamarine;
+}
+.lt{
+color:orangered;
+}
+.vell{
+  color: blueviolet;
+}
+.youtube{
+  height:250px;
+}
+.harry_img{
+height:250px;
+}
+.from{
+
+}
+.list{
+ font-family: 'Langar', cursive;
+}
+.catimg{
+height:500px ;
+}
+nav{
+  background-color: gold;
+  height:30px;
+  width:150px;
+  float: right;
+
+}
+.box{
+  height: 250px;
+  width: 100%;
+  background-color: tomato;
+}
+.book{
+  width: 200px;
+  height: 200px;
+
+}
+body{
+  background-color: skyblue;
 }
